@@ -23,6 +23,11 @@
 		
 		<main>
 			<section>
+				<div class="container">
+ 			 		<img src="photos/bl.jpg" alt="Twórz kulturę w Gdańsku" class="image">
+ 					 <div class="overlay">Twórz kulturę<br/> w Gdańsku</div>
+				</div>
+
 			</section>
 		</main>
 		
@@ -30,7 +35,6 @@
 		</footer>
 		
 	</div>
-Tu wpisuje się treść strony
 
 </body>
 </html>
