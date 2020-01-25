@@ -1,0 +1,53 @@
+.wrapper {
+  max-width: 960px; /* 20px smaller, to fit the paddings on the sides */
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.topnav
+{
+	background-color: white;
+	font-family: Athiti;
+  padding: 10px;
+  text-align: left;
+  color: black;
+  font-size: 80px;
+}
+.header 
+{
+	font-family: Athiti;
+  padding: 10px;
+  text-align: left;;
+  background: white;
+  color: black;
+  font-size: 80px;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-Bold.ttf);
+  font-weight: bold;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-SemiBold.ttf);
+  font-weight: semibold;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-Medium.ttf);
+  font-weight: medium;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-Regular.ttf);
+  font-weight: regular;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-Light.ttf);
+  font-weight: light;
+}
+@font-face {
+  font-family: Athiti;
+  src: url(Athiti/Athiti-ExtraLight.ttf);
+  font-weight: extralight;
+}

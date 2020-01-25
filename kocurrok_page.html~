@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="pl">
+<head>
+	<link rel="stylesheet" type="text/css" href="my_style.css">
+	<meta charset="utf-8">
+	<meta name="description" content="Kocurrok">
+	<title>Kocurrok Portfolio</title>
+	
+</head>
+<body>
+
+	<div class="wrapper">
+		<div class="topnav"> <!-- Pasek menu -->
+  			<a class="active" href="#home">Home</a>
+    		<a href="#about">About</a>
+  			<a href="#contact">Contact</a>
+		</div>
+	
+		<div class="header"> <!-- Nagłówek strony -->
+  			<h1>Kocurrok Portfolio</h1>
+  			<p>My supercool header</p>
+		</div>
+		
+		<main>
+			<section>
+			</section>
+		</main>
+		
+		<footer>
+		</footer>
+		
+	</div>
+Tu wpisuje się treść strony
+
+</body>
+</html>
